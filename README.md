@@ -9,13 +9,15 @@ CX93010 has some problems to detecting CID but by seting Country of installation
 
 
 2. Then enable CID reporting by `AT+VCID=1` or `AT+VCID=2` as it said in [manual][2]:
-[![enter image description here][3]][3]
+
+    [![enter image description here][3]][3]
 
 
 
 
 3. And then it works flawlessly:
-[![enter image description here][4]][4]
+
+    [![enter image description here][4]][4]
 
 
 And this is the final based on this rules:
