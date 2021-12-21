@@ -20,7 +20,7 @@ CX93010 has some problems to detecting CID but by seting Country of installation
     [![enter image description here][4]][4]
 
 
-And this is the final based on this rules:
+And this is the final code based on this rules:
 
     using System;
     using System.Collections.Generic;
