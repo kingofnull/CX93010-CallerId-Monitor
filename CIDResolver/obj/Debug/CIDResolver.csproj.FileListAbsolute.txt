@@ -1,0 +1,10 @@
+F:\Projects\CIDResolver\CIDResolver\bin\Debug\CIDResolver.exe.config
+F:\Projects\CIDResolver\CIDResolver\bin\Debug\CIDResolver.exe
+F:\Projects\CIDResolver\CIDResolver\bin\Debug\CIDResolver.pdb
+F:\Projects\CIDResolver\CIDResolver\obj\Debug\CIDResolver.csproj.AssemblyReference.cache
+F:\Projects\CIDResolver\CIDResolver\obj\Debug\CIDResolver.Properties.Resources.resources
+F:\Projects\CIDResolver\CIDResolver\obj\Debug\CIDResolver.csproj.GenerateResource.cache
+F:\Projects\CIDResolver\CIDResolver\obj\Debug\CIDResolver.csproj.CoreCompileInputs.cache
+F:\Projects\CIDResolver\CIDResolver\obj\Debug\CIDResolver.exe
+F:\Projects\CIDResolver\CIDResolver\obj\Debug\CIDResolver.pdb
+F:\Projects\CIDResolver\CIDResolver\obj\Debug\CIDResolver.MainForm.resources
