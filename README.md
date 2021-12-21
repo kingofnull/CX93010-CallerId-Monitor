@@ -21,7 +21,7 @@ CX93010 has some problems to detecting CID but by seting Country of installation
 
 
 And this is the final code based on this rules:
-
+```C#
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;
@@ -76,7 +76,7 @@ And this is the final code based on this rules:
             }
         }
     }
-
+```
 
   [1]: https://i.stack.imgur.com/BCWHl.png
   [2]: https://data2.manualslib.com/pdf5/115/11410/1140976-conexant/cx93010.pdf?80a0b6308045e408c52fac12cf9f7514&take=binary
